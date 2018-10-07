@@ -1,0 +1,23 @@
+{
+  "name": "sqpack",
+  "version": "0.1.0",
+  "description": "square enix ffxiv sqpack parser in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeliex/sqpack.git"
+  },
+  "keywords": [
+    "sqpack",
+    "ffxiv"
+  ],
+  "author": "yeliex <yeliex@yeliex.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeliex/sqpack/issues"
+  },
+  "homepage": "https://github.com/yeliex/sqpack#readme"
+}
